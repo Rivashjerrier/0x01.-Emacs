@@ -55,3 +55,22 @@ _Select all correct answers_
 - [x] Meta
 - [ ] Shift + M
 - [x] Alt
+
+### Question #1
+In Emacs’ documentation, what does `C` in a shortcut command stand for?
+- [ ] Shift + C
+- [x] Ctrl
+- [ ] Command
+
+### Question #2
+In Emacs, a buffer is an object that a file’s text is held in.
+- [ ] False
+- [x] True
+
+### Question #3
+You can only have one buffer open in Emacs at a time.
+- [x] False
+- [ ] True
+
+</details>
+---

@@ -49,9 +49,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 <summary>View Contents</summary>
 
 ### Question #0
-In Emacs’ documentation, what does `M` in a shortcut command stand for?  
-
-Select all correct answers
+In Emacs’ documentation, what does `M` in a shortcut command stand for?
 - [x]Meta
 - [ ]Shift + M
 - [x]Alt

@@ -51,9 +51,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### Question #0
 In Emacs’ documentation, what does `M` in a shortcut command stand for?
 Select all correct answers
-
-Meta
-
-Shift + M
-
-Alt
+- [x]Meta
+- []Shift + M
+- [x]Alt
